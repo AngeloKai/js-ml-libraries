@@ -22,8 +22,10 @@ Name | Description | License
 [deeplearning.js](https://github.com/PAIR-code/deeplearnjs)| Hardware-accelerated deep learning // machine learning // NumPy library for the web | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [neataptic](https://github.com/wagenaartje/neataptic) | Blazing fast neuro-evolution & backpropagation for the browser |[MIT](http://opensource.org/licenses/MIT)
 [webdnn](https://github.com/mil-tokyo/webdnn) | DNN Running Framework that can be built with WebGPU, WebGL, or WebAssembly | [MIT](http://opensource.org/licenses/MIT)
-[neurojs](https://github.com/janhuenermann/neurojs) | deep learning framework focused on reinforcement learning 
-[deepforge](https://github.com/deepforge-dev/deepforge) | open-source visual development environment for deep learning | 
+[neurojs](https://github.com/janhuenermann/neurojs) | deep learning framework focused on reinforcement learning | |
+[deepforge](https://github.com/deepforge-dev/deepforge) | open-source visual development environment for deep learning | |
+[gpu.js](http://gpu.rocks/) | Perform GPU-accelerated matrix computation with graceful fallback to JS | [MIT](http://opensource.org/licenses/MIT)
+
 
 
 ## Linear Algebra 
