@@ -1,5 +1,5 @@
 # Awesome Machine Learning Libraries
-An incomplete list of Machine Learning libraries written in JavaScript
+An incomplete list of Machine Learning libraries that can run in browsers. 
 
 ## Traditional Machine Learning Algorithms 
 Name | Description | License
