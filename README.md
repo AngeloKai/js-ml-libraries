@@ -25,7 +25,7 @@ Name | Description | License
 [neurojs](https://github.com/janhuenermann/neurojs) | deep learning framework focused on reinforcement learning | |
 [deepforge](https://github.com/deepforge-dev/deepforge) | open-source visual development environment for deep learning | |
 [gpu.js](http://gpu.rocks/) | Perform GPU-accelerated matrix computation with graceful fallback to JS | [MIT](http://opensource.org/licenses/MIT)
-
+[TensorFire](https://tenso.rs/) | Framework for running neural networks in the browser, accelerated by WebGL. | To be open sourced
 
 
 ## Linear Algebra 
