@@ -17,6 +17,7 @@ Name | Description | License
 [synaptic.js](https://github.com/cazala/synaptic)| Generic neural network framework | [MIT](http://opensource.org/licenses/MIT)
 [deeplearning.js](https://github.com/PAIR-code/deeplearnjs)| Hardware-accelerated deep learning // machine learning // NumPy library for the web | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [kera.js](https://github.com/transcranial/keras-js)| Run Keras models in the browser, with GPU support using WebGL | [MIT](http://opensource.org/licenses/MIT)
+[TensorFire](https://tenso.rs/) | Framework for running neural networks in the browser, accelerated by WebGL. | To be open sourced
 [neurojs](https://github.com/janhuenermann/neurojs) | deep learning framework focused on reinforcement learning | |
 [deepforge](https://github.com/deepforge-dev/deepforge) | open-source visual development environment for deep learning | |
 [neataptic](https://github.com/wagenaartje/neataptic) | Blazing fast neuro-evolution & backpropagation for the browser |[MIT](http://opensource.org/licenses/MIT)
